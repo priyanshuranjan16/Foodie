@@ -84,7 +84,7 @@ export function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Foodie. All rights reserved. | 
+            © 2025 Foodie. All rights reserved. | 
             <Link href="/privacy" className="hover:text-white ml-1">Privacy Policy</Link> |
             <Link href="/terms" className="hover:text-white ml-1">Terms of Service</Link>
           </p>
